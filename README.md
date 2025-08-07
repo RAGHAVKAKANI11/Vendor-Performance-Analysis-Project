@@ -1,5 +1,6 @@
 📦 Vendor Performance Analysis using Python & Power BI
-  	This project performs an in-depth Vendor Performance Analysis by consolidating data from multiple SQL sources, analyzing key performance metrics, and visualizing actionable business insights using Power BI. It aims to help decision-makers identify underperforming vendors, optimize procurement strategies, and enhance vendor management efficiency.
+
+This project performs an in-depth Vendor Performance Analysis by consolidating data from multiple SQL sources, analyzing key performance metrics, and visualizing actionable business insights using Power BI. It aims to help decision-makers identify underperforming vendors, optimize procurement strategies, and enhance vendor management efficiency.
 
 📌 Objective
 	The primary goal of this project is to automate and streamline the analysis of vendor performance data by:
